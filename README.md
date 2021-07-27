@@ -9,8 +9,8 @@
 
 使用方法：  
 
-``pip install -r requirements.txt  
-python main.py  ``
+`pip install -r requirements.txt`  
+`python main.py`  
 
 使用时根据提示输入用户名和密码  
 接着输入课程代码  
